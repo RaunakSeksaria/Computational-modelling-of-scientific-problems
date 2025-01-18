@@ -1,6 +1,6 @@
 # Computing-in-Science-II
 
-This repository contains resources, code, and assignments for the "Computing in Sciences II" course, part of the "Computing in Sciences" series offered at IIIT-H.
+This repository contains resources, code, and assignments for the "Computing in Sciences II" course, offered at IIIT-H, taken by Dr. Prabhakar Bhimalapuram
 It focuses on developing Python programming skills for scientific computing, analysis, and visualization through practical problem-solving.
 
 ### Course Objectives
@@ -37,13 +37,3 @@ To run the notebooks and scripts in this repository, you will need the following
 - Matplotlib
 - SymPy
 - SciPy
-
-## Folder Structure
-
-```
-.
-├── assignments/        # Homework and assignment solutions
-├── notebooks/          # Jupyter notebooks for lectures and examples
-├── resources/          # Additional resources and references
-└── README.md           # This file
-```

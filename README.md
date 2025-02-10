@@ -1,13 +1,15 @@
-# Computing-in-Science-II
+# Computational Modelling
 
-This repository contains resources, code, and assignments for the "Computing in Sciences II" course, offered at IIIT-H, taken by Dr. Prabhakar Bhimalapuram
+MOst of the resources, code, and assignments for the "Computing in Sciences II" course, offered at IIIT-H, have been included.
 It focuses on developing Python programming skills for scientific computing, analysis, and visualization through practical problem-solving.
+Other kinds of work, for example Biomolecular Structures's course's structure visualization report document, containing VMD visualizations of proteins, TK Console TCL code, and a question on using AlphaFold3 has been shown.
 
 ### Course Objectives
 - Write small Python programs to solve problems in science and mathematics.
 - Perform computations, analyses, and visualizations.
 - Gain familiarity with Python libraries such as NumPy, Matplotlib, and SymPy.
 - Learn mathematical techniques used in scientific research.
+- Protein visualization and Modelling
 
 ## Scientific Topics Covered
 
@@ -28,6 +30,9 @@ It focuses on developing Python programming skills for scientific computing, ana
 
 6. **Balancing Chemical Equations**
     - Stoichiometric coefficients in a Chemical Reaction
+
+7. **Protein Structure visualization**
+    - VMD visualizations of proteins, TK Console TCL code, and AlphaFold3 usage for random protein sequence has been shown.
 
 ## Dependencies
 

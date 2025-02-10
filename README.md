@@ -1,7 +1,7 @@
 # Computational Modelling
 
 MOst of the resources, code, and assignments for the "Computing in Sciences II" course, offered at IIIT-H, have been included.
-It focuses on developing Python programming skills for scientific computing, analysis, and visualization through practical problem-solving.
+It focuses on developing Python programming skills for scientific computing, analysis, and visualization through practical problem-solving.  
 Other kinds of work, for example Biomolecular Structures's course's structure visualization report document, containing VMD visualizations of proteins, TK Console TCL code, and a question on using AlphaFold3 has been shown.
 
 ### Course Objectives
